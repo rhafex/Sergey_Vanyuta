@@ -20,7 +20,8 @@
 - [Checklists](https://github.com/artichokeee/checklist)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [SQL Queries](https://github.com/artichokeee/SQL/https://github.com/rhafex/Sergey_Vanyuta/blob/main/assets/sql_task_1.docx)
+- [SQL Queries](https://github.com/artichokeee/SQL/https://github.com/rhafex/Sergey_Vanyuta/blob/main/assets/sql_task_2.docx)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Follow Me
