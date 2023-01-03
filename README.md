@@ -1,4 +1,4 @@
-[![Header](https://drive.google.com/file/d/13RmRTKKSSB6QmL6vkfGAzGmJF13eCP0K/view?usp=sharing/)
+[![Header](https://github.com/rhafex/Sergey_Vanyuta/blob/main/assets/github-header-image.png/)
 ## I'm a QA Engineer. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
