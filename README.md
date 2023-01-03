@@ -2,7 +2,7 @@
 ## I'm a QA Engineer. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://docs.google.com/document/d/1v3iBCeMpfGZ_3hGSrRgfsk5yNj-cJ6TC5OyOv-RXVTY/edit?usp=sharing/)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
