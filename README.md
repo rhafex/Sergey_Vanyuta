@@ -17,7 +17,7 @@
 
 ### Testing Documentation
 
-- [Bug reports, Test cases, Checklist](https://github.com/rhafex/Sergey_Vanyuta/blob/main/assets/Checklist_test_cases.xlsx)
+- [Bug reports, Test cases, Checklists](https://github.com/rhafex/Sergey_Vanyuta/blob/main/assets/Checklist_test_cases.xlsx)
 - [SQL Queries](https://github.com/rhafex/Sergey_Vanyuta/blob/main/assets/sql_task_1.docx)
 - [SQL Queries](https://github.com/rhafex/Sergey_Vanyuta/blob/main/assets/sql_task_2.docx)
 - [Postman Collections](https://www.postman.com/aerospace-geoscientist-99705845/workspace/33325dd6-19b8-42f1-b446-b57e637d1988/collection/23787619-51046e55-2ff5-484d-8648-6e0107e85ee2?action=share&creator=23787619)
