@@ -1,6 +1,6 @@
 ![Header](https://github.com/rhafex/Sergey_Vanyuta/blob/main/assets/github-header-image.png/)
 ## I'm a QA Engineer. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+## Welcome to my GitHub profile 
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/1v3iBCeMpfGZ_3hGSrRgfsk5yNj-cJ6TC5OyOv-RXVTY/edit?usp=sharing/)
 
