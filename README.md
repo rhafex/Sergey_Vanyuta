@@ -1,4 +1,4 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header](https://drive.google.com/file/d/13RmRTKKSSB6QmL6vkfGAzGmJF13eCP0K/view?usp=sharing/)
 ## I'm a QA Engineer. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
