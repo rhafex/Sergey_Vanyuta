@@ -4,16 +4,6 @@
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Как создать резюме для тестировщика &lpar;QA Engineer&rpar; в 2023? + Итоги года](https://www.youtube.com/watch?v=Z2ykWJE9wCA)
-- [Автоматизация и ручное тестирование. Обзор](https://www.youtube.com/watch?v=hhV7pIHQGMo)
-- [РАЗРАБОТЧИК ПРОТИВ &lpar;ЗА&rpar; ТЕСТИРОВЩИКА с @m0rtymerr](https://www.youtube.com/watch?v=EuLzxYEg-SA)
-- [QA Advent календарь для тестировщика. 31 задача на каждый день!](https://www.youtube.com/watch?v=hCI7fdJyP9Q)
-- [Можно &lpar;СЛОЖНО&rpar; ли стать тестировщиком &lpar;QA Engineer&rpar; в 2023?](https://www.youtube.com/watch?v=upFAjlpLACw)
-<!-- YOUTUBE:END -->
-
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
