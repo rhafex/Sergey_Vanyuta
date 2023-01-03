@@ -17,12 +17,10 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Bug reports, Test cases, Checklist](https://github.com/rhafex/Sergey_Vanyuta/blob/main/assets/Checklist_test_cases.xlsx)
 - [SQL Queries](https://github.com/rhafex/Sergey_Vanyuta/blob/main/assets/sql_task_1.docx)
 - [SQL Queries](https://github.com/rhafex/Sergey_Vanyuta/blob/main/assets/sql_task_2.docx)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://www.postman.com/aerospace-geoscientist-99705845/workspace/33325dd6-19b8-42f1-b446-b57e637d1988/collection/23787619-51046e55-2ff5-484d-8648-6e0107e85ee2?action=share&creator=23787619)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/sergey-vanyuta-3988a9237/)
